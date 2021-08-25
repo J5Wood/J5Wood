@@ -1,5 +1,10 @@
-### Hi there 👋
+<!-- ### Hey, I'm Jeremy Wood!
 
+:computer: I'm a full stack software engineer. 
+:bowtie: So far I've worked with Javascript, React, Thunk, Node, Ruby, Rails, Sinatra, SQLite, Git, HTML, CSS
+:construction_worker: I'm currently practicing algorithms
+
+ -->
 <!--
 **J5Wood/J5Wood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
