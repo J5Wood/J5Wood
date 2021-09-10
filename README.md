@@ -1,6 +1,3 @@
-<!-- ![My pets](https://github.com/J5Wood/J5Wood/blob/main/animals-for-git.tiff?raw=true)
-<br />
- -->
 ### Hey, I'm Jeremy Wood!
 
 <br />
