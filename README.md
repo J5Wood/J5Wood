@@ -1,4 +1,4 @@
-<img src="./animals-for-git.tif" alt="animals" width="600"/>
+<img href="./animals-for-git.tif" alt="animals" width="600"/>
 <br />
 
 ### Hey, I'm Jeremy Wood!
