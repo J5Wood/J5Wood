@@ -1,5 +1,7 @@
 ### Hey, I'm Jeremy Wood!
 
+
+
 :computer: I'm a full stack software engineer.
 
 :coffee: So far I've worked with Javascript, React, Thunk, Node, Ruby, Rails, Sinatra, SQLite, Git, HTML, CSS
