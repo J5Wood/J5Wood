@@ -1,6 +1,6 @@
 ### Hey, I'm Jeremy Wood!
 
-
+<br />
 
 :computer: I'm a full stack software engineer.
 
