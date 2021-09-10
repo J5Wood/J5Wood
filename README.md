@@ -1,4 +1,5 @@
-<img href="./animals-for-git.tif" alt="animals" width="600"/>
+<!-- <img src="./animals-for-git.tif" alt="animals" width="600"/> -->
+![My pets](https://github.com/J5Wood/J5Wood/animals-for-git.tif?raw=true)
 <br />
 
 ### Hey, I'm Jeremy Wood!
