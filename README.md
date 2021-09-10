@@ -2,15 +2,14 @@
 
 <br />
 
-:computer: I'm a full stack software engineer.
+:computer: - I'm a full stack software engineer.<br />
+:coffee: - So far I've worked with Javascript, React, Thunk, Node, Ruby, Rails, Sinatra, SQLite, Git, HTML, CSS
 
-:coffee: So far I've worked with Javascript, React, Thunk, Node, Ruby, Rails, Sinatra, SQLite, Git, HTML, CSS
+:construction_worker: - I'm currently practicing my algorithms
 
-:construction_worker: I'm currently practicing my algorithms
+:bento: - I love to travel, and I travel to eat food
 
-:bento: I love to travel, and I travel to eat food
-
-:motorcycle: If I'm not working on code, I'm working on my motorcycle
+:motorcycle: - If I'm not working on code, I'm working on my motorcycle
 
 <br />
 
