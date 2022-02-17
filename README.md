@@ -8,7 +8,7 @@
 
 :construction_worker: - I'm currently practicing data structures and algorithms
 
-:bento: - I love to travel, I travel to eat food and meet amazing people
+:bento: - I love to travel, and I travel to eat food and meet amazing people
 
 :motorcycle: - If I'm not working on code, I'm working on my motorcycle
 
