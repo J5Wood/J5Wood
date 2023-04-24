@@ -6,9 +6,11 @@
 
 :coffee: - I work primarily with Javascript, React, Node, and Rails.
 
+:book: - I'm addicted to learning.
+
 :bento: - I love to travel, eat delicious food, and meet amazing people.
 
-:motorcycle: - If I'm not working on code, I'm working on my motorcycle.
+:motorcycle: - If I'm not coding, I'm working on my motorcycle.
 
 <br />
 
