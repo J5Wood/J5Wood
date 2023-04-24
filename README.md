@@ -4,13 +4,11 @@
 
 :computer: - I'm a full stack software engineer.
 
-:coffee: - So far I've worked primarily with Javascript, React, Redux, Thunk, Node, Ruby, Rails, Sinatra, SQLite, Git, HTML, CSS
+:coffee: - I work primarily with Javascript, React, Node, and Rails.
 
-:construction_worker: - I'm currently practicing data structures and algorithms
+:bento: - I love to travel, eat delicious food, and meet amazing people.
 
-:bento: - I love to travel, and I travel to eat food and meet amazing people
-
-:motorcycle: - If I'm not working on code, I'm working on my motorcycle
+:motorcycle: - If I'm not working on code, I'm working on my motorcycle.
 
 <br />
 
